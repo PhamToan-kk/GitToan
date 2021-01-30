@@ -1,12 +1,11 @@
 import React, { Component } from 'react'
 import { Text, View } from 'react-native'
 
-export default class toan22 extends Component {
+export default class toan33 extends Component {
     render() {
         return (
             <View>
-                <Text>dfsfwwws</Text>
-
+                <Text> textInComponent </Text>
             </View>
         )
     }
