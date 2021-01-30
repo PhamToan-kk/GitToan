@@ -5,7 +5,9 @@ export default class toan22 extends Component {
     render() {
         return (
             <View>
-                <Text>dfsfwwws</Text>
+                <Text>dfsfwwwsdsdvsdsvs</Text>
+                <Text>dfsfwwwsdsdvsdsvs</Text>
+                <Text>dfsfwwwsdsdvsdsvs</Text>
 
             </View>
         )
