@@ -11,8 +11,8 @@ export default class today2 extends Component {
                 <Text> tofsdfsdffsan </Text>
                 <Text> tofsdfsdffsan </Text>
                 <Text> tofsdfsdffsan </Text>
-                <Text> tofsdfsdffsan </Text>
-                <Text> tofsdfsdffsan </Text>
+                <Text> ư2ưeqqweqweq </Text>
+                <Text> gdgsd </Text>
 
             </View>
         )
