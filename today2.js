@@ -6,7 +6,14 @@ export default class today2 extends Component {
         return (
             <View>
                 <Text> tofsdfsdffsan </Text>
-                
+                <Text> tofsdfsdffsan </Text>
+                <Text> tofsdfsdffsan </Text>
+                <Text> tofsdfsdffsan </Text>
+                <Text> tofsdfsdffsan </Text>
+                <Text> tofsdfsdffsan </Text>
+                <Text> tofsdfsdffsan </Text>
+                <Text> tofsdfsdffsan </Text>
+
             </View>
         )
     }
