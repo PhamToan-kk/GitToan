@@ -5,7 +5,7 @@ export default class Toan44 extends Component {
     render() {
         return (
             <View>
-                <Text> textInComponent </Text>
+                <Text> toan </Text>
             </View>
         )
     }
