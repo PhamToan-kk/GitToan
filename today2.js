@@ -5,8 +5,7 @@ export default class today2 extends Component {
     render() {
         return (
             <View>
-                <Text> toan </Text>
-                
+                <Text> toan </Text>  
             </View>
         )
     }
