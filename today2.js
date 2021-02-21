@@ -6,7 +6,7 @@ export default class today2 extends Component {
         return (
             <View>
                 <Text> textInComponent </Text>
-                <Text> textInComponent </Text>
+                <Text> conme mayy con cho </Text>
                 <Text> textInComponent </Text>
                 <Text> textInComponent </Text>
                 <Text> textInComponent </Text>
